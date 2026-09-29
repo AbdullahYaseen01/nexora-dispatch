@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Dispatch - AI Auto-Dialer & Lead Qualification",
+  "description": "Intelligent cold calling AI agent for trucking dispatch services with CSV sequential dialing, voice NLP lead qualification, CRM synchronization, and warm human transfer.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
